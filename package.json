@@ -1,0 +1,33 @@
+{
+  "name": "real-estate",
+  "version": "1.0.0",
+  "description": "Pixel-perfect Next.js implementation of the Home Real Estate template.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "preview": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "nextjs",
+    "real-estate",
+    "vercel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.0",
+    "@types/react": "^19.2.14",
+    "eslint": "^9.39.3",
+    "eslint-config-next": "^16.1.6",
+    "typescript": "^5.9.3"
+  }
+}
