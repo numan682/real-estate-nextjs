@@ -2,6 +2,11 @@
 
 High-performance, SEO-friendly real estate web template built with Next.js App Router.
 
+## Live Demo & Repository
+
+- Live Demo: https://real-estate-nextjs-livid.vercel.app/
+- GitHub Repository: https://github.com/numan682/real-estate-nextjs.git
+
 ## Overview
 
 Home Real Estate is a production-ready Next.js template focused on:
