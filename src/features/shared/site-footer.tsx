@@ -11,7 +11,7 @@ export function SiteFooter() {
         								<div className="bg-wrapper">
         									<div className="logo mb-20">
         										<a href="/">
-        											<img src="/images/logo/logo_01.svg" alt="" />
+        											<img src="/images/logo/logo.svg" alt="" />
         										</a>
         									</div> 
 

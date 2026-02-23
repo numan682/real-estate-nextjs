@@ -41,7 +41,7 @@ export default function TemplatePage() {
                 <div className="offcanvas-header">
                 	<div className="logo order-lg-0">
     					<a href="/" className="d-flex align-items-center">
-    						<img src="/images/logo/logo_02.svg" alt="" />
+    						<img src="/images/logo/logo.svg" alt="" />
     					</a>
     				</div>
                 	<button type="button" className="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
@@ -185,7 +185,7 @@ export default function TemplatePage() {
     					<div className="d-flex align-items-center">
     						<div className="logo order-lg-0">
     							<a href="/" className="d-flex align-items-center">
-    								<img src="/images/logo/logo_04.svg" alt="" />
+    								<img src="/images/logo/logo.svg" alt="" />
     							</a>
     						</div>
 
@@ -209,7 +209,7 @@ export default function TemplatePage() {
     							</button>
     							<div className="collapse navbar-collapse" id="navbarNav">
     								<ul className="navbar-nav align-items-lg-center">
-    									<li className="d-block d-lg-none"><div className="logo"><a href="/" className="d-block"><img src="/images/logo/logo_04.svg" alt="" /></a></div></li>
+    									<li className="d-block d-lg-none"><div className="logo"><a href="/" className="d-block"><img src="/images/logo/logo.svg" alt="" /></a></div></li>
     									<li className="nav-item dashboard-menu">
     										<a className="nav-link" href="/dashboard/dashboard-index" target="_blank" rel="noopener noreferrer">Dashboard</a>
     									</li>
@@ -720,7 +720,7 @@ export default function TemplatePage() {
     							<div className="footer-intro position-relative z-1 pt-70 pb-150 lg-pb-20">
     								<div className="logo mb-15">
     									<a href="/">
-    										<img src="/images/logo/logo_05.svg" alt="" />
+    										<img src="/images/logo/logo.svg" alt="" />
     									</a>
     								</div> 
 

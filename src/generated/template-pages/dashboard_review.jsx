@@ -38,7 +38,7 @@ export default function TemplatePage() {
     			<div className="position-relative">
     				<div className="logo d-md-block d-flex align-items-center justify-content-between plr bottom-line pb-30">
     					<a href="/dashboard/dashboard-index">
-    						<img src="/images/logo/logo_01.svg" alt="" />
+    						<img src="/images/logo/logo.svg" alt="" />
     					</a>
     					<button className="close-btn d-block d-md-none"><i className="fa-light fa-circle-xmark"></i></button>
     				</div>

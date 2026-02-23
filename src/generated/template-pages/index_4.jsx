@@ -56,7 +56,7 @@ export default function TemplatePage() {
     					<div className="d-flex align-items-center">
     						<div className="logo order-lg-0">
     							<a href="/" className="d-flex align-items-center">
-    								<img src="/images/logo/logo_06.svg" alt="" />
+    								<img src="/images/logo/logo.svg" alt="" />
     							</a>
     						</div>
 
@@ -82,7 +82,7 @@ export default function TemplatePage() {
     							</button>
     							<div className="collapse navbar-collapse ms-xl-5" id="navbarNav">
     								<ul className="navbar-nav align-items-lg-center">
-    									<li className="d-block d-lg-none"><div className="logo"><a href="/" className="d-block"><img src="/images/logo/logo_06.svg" alt="" /></a></div></li>
+    									<li className="d-block d-lg-none"><div className="logo"><a href="/" className="d-block"><img src="/images/logo/logo.svg" alt="" /></a></div></li>
     									<li className="nav-item dashboard-menu">
     										<a className="nav-link" href="/dashboard/dashboard-index" target="_blank" rel="noopener noreferrer">Dashboard</a>
     									</li>
@@ -1177,7 +1177,7 @@ export default function TemplatePage() {
     							<div className="footer-intro pe-xxl-5 pe-xl-3">
     								<div className="logo mb-15">
     									<a href="/">
-    										<img src="/images/logo/logo_06.svg" alt="" />
+    										<img src="/images/logo/logo.svg" alt="" />
     									</a>
     								</div> 
 
